@@ -1,0 +1,6 @@
+{
+  "name": "IronPulse Gym",
+  "description": "Comprehensive workout routines, sets and progress tracking, rest timers, macro diet plans, workout music player, voice coach, web integration security, and Google Drive cloud storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
